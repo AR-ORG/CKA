@@ -46,14 +46,7 @@ List the logs from the following components on a worker node:
 
 **<span style="text-decoration:underline;">Lab Activity 3 - Application Monitoring</span>**
 
-Run the following:
-
-
-```
-kubectl apply -f https://raw.githubusercontent.com/David-VTUK/CKAExampleYaml/master/nginx-svc-and-deployment.yaml
-
-```
-
+Create a nginx deployment of your own
 
 
 *   Gather the events from a given pod from this deployment
